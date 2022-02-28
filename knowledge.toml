@@ -1,0 +1,63 @@
+# https://toml.io/en/v1.0.0
+[[people]]
+name = "Yannick Zakowski"
+website = "https://perso.ens-lyon.fr/yannick.zakowski/"
+
+[[people.software]]
+name = "vellvm"
+website = "https://github.com/vellvm/vellvm"
+
+[[papers]]
+name = "Modular, Compositional, and Executable Formal Semantics for LLVM IR"
+[[papers.software]]
+name = "vellvm"
+
+[[papers.authors]]
+name = "Yannick Zakowski"
+[[papers.authors]]
+name = "Calvin Beck"
+[[papers.authors]]
+name = "Irene Yoon"
+[[papers.authors]]
+name = "Ilia Zaichuk"
+[[papers.authors]]
+name = "Vadim Zaliva"
+[[papers.authors]]
+name = "Steve Zdancewic"
+
+[[groups]]
+name = "CASH: Compilation and Analysis, Software and Hardware"
+website = "http://www.ens-lyon.fr/LIP/CASH/"
+
+[[groups.members]]
+name = "Yannick Zakowski"
+
+[[groups]]
+name = "DeepSpec NSF"
+website = "https://deepspec.org/main"
+
+[[groups.members]]
+name = "Yannick Zakowski"
+
+[[groups.members]]
+name = "Andrew W. Appel"
+website = "https://www.cs.princeton.edu/~appel/"
+
+[[groups.members]]
+name = "Benjamin C. Pierce"
+website = "https://www.cis.upenn.edu/~bcpierce/"
+
+
+
+[[software]]
+name = "Interaction Trees"
+website = "https://github.com/DeepSpec/InteractionTrees"
+
+[[software.source]]
+name = "ITree.Interp.Recursion"
+website = "https://deepspec.github.io/InteractionTrees/master/ITree.Interp.Recursion.html"
+
+[[software.source.links]]
+name = "Compositional (Co-inductive) Recursion in Coq"
+url = "https://gmalecha.github.io/reflections/2018/compositional-coinductive-recursion-in-coq"
+comment = "The implementation is based on the discussion here"
